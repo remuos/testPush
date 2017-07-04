@@ -1,0 +1,259 @@
+.header{
+
+	width: 80%;
+	height: 200px;
+}
+
+.items, .listArticle{
+	padding:6px 0;
+
+}
+.listArticle .items .item-topic {
+
+border: #ccc 1px solid ;
+padding:3px;
+
+}
+.listArticle .items .item-topic .item-info{
+	padding-left:10px;
+}
+.listArticle .items .item-topic a{
+	text-decoration:none;
+	color:#000;
+}
+.listArticle .items .img-thumbnail{
+	margin: 0;
+
+}
+.listArticle .items .item-topic p{
+	color:#65686B;
+	font-family: 'Open Sans',sans-serif;
+}
+
+.artcl .content p{
+	padding: 3px;
+}
+.artcl {
+	background-color:#fff;
+	padding:5px;
+	margin-top:15px;
+}
+.artcl .content p{
+	font-family: 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+	margin:15px 15px 0 0;
+	color:#8a6d3b;
+	text-align: justify;
+	text-indent: 40px;
+	letter-spacing: 1.5px;
+	line-height: 1.8;
+}
+/*slide home 
+.slideshow{
+	margin-top:15px;
+	margin-bottom: 15px;
+}*/
+.divslidecaption{
+	position:absolute;
+	display:block;
+	background-color:rgba(00,00,00,0.5);
+	bottom:0px;
+	width:100%;
+	padding:20px;
+}
+.divslidecaption a{
+	text-decoration: none;
+	color: rgb(143, 232, 155);
+	font-family: 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+}
+.title-cat{
+	border-top:1px solid #99aba9;
+	border-bottom:1px solid #99aba9;
+	width:150px;
+	padding:0;
+	margin-bottom:-1px;
+	position:relative;
+	text-align:center;
+
+}
+.title-cat h2{
+	display:inline-block;
+	margin:2px 2px 2px 20px;
+	padding:10px;
+	color:#2b2d2d;
+}
+.title-cat h2:before{
+	content:'';
+	position:absolute;
+	display:block;
+	background-color:#99aba9;
+	height:100%;
+	width:10px;
+	top:0;
+	left:0;
+}
+.title-cat h2:after{
+	content:'';
+	position:absolute;
+	display:block;
+	background-color:#99aba9;
+	height:100%;
+	width:10px;
+	top:0;
+	right:0;
+}.header{
+
+	width: 80%;
+	height: 200px;
+}
+
+.items, .listArticle{
+	padding:6px 0;
+
+}
+.listArticle .items .item-topic {
+
+border: #ccc 1px solid ;
+padding:3px;
+
+}
+.listArticle .items .item-topic .item-info{
+	padding-left:10px;
+}
+.listArticle .items .item-topic a{
+	text-decoration:none;
+	color:#000;
+}
+.listArticle .items .img-thumbnail{
+	margin: 0;
+
+}
+.listArticle .items .item-topic p{
+	color:#65686B;
+	font-family: 'Open Sans',sans-serif;
+}
+
+.artcl .content p{
+	padding: 3px;
+}
+.artcl {
+	background-color:#fff;
+	padding:5px;
+	margin-top:15px;
+}
+.artcl .content p{
+	font-family: 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+	margin:15px 15px 0 0;
+	color:#8a6d3b;
+	text-align: justify;
+	text-indent: 40px;
+	letter-spacing: 1.5px;
+	line-height: 1.8;
+}
+/*slide home 
+.slideshow{
+	margin-top:15px;
+	margin-bottom: 15px;
+}*/
+.divslidecaption{
+	position:absolute;
+	display:block;
+	background-color:rgba(00,00,00,0.5);
+	bottom:0px;
+	width:100%;
+	padding:20px;
+}
+.divslidecaption a{
+	text-decoration: none;
+	color: rgb(143, 232, 155);
+	font-family: 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+}
+.title-cat{
+	border-top:1px solid #11a007;
+	border-bottom:1px solid #11a007;
+	/* width:160px; */
+	padding:0;
+	position:relative;
+}
+.title-cat h2{
+	display:inline-block;
+	margin:2px 20px;
+	padding:5px;
+	color:#11a007;
+	text-transform:uppercase;
+	
+}
+.title-cat h2:before{
+	content:'';
+	position:absolute;
+	display:block;
+	background-color:#11a007;
+	height:100%;
+	width:8px;
+	top:0;
+	left:0;
+}
+.title-cat h2:after{
+	content:'';
+	position:absolute;
+	display:block;
+	background-color:#11a007;
+	height:100%;
+	width:8px;
+	top:0;
+	right:0;
+}
+.blw-title{
+	width:100%;
+	background-color:#11a007;
+	height:1px;
+	margin-top:-1px;
+
+}
+.right-art{
+	background-color:rgba(255, 255, 255, 0.62);
+	padding:5px;
+	border-bottom:1px solid #eee;
+	cursor:pointer;
+
+}
+.right-art:hover{
+	background-color:#eee;
+	transition:all 0.8s;
+	-webkit-transition:all 0.8s;
+	
+}
+.right-art .titre-date{
+		margin-left:5px;
+		margin-top:-2px;
+}
+.right-ar img {
+	border:2px solid #ccc;
+}
+.title-art{color:#11a007;font-weight:bold;}
+.right-art .title-art{
+	padding:0;
+	margin:0;
+	font-size:16px;
+	
+
+}
+.title-art a{
+	text-decoration:none;
+}
+.date-art{
+	color:#ccc;
+	font-size:12px;
+	border-top:#ddd 1px solid;
+	border-bottom:#ddd 1px solid;
+	width:100%;
+	padding:10px ;
+
+}
+.right-art .date-art{
+	border:0;
+	padding-left:0;
+}
